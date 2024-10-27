@@ -1,0 +1,11 @@
+﻿  EvoProject1.cpp
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(30,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(90,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(113,122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(117,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(342,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(348,11): warning C4129: 'G': unrecognized character escape sequence
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(351,11): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(375,11): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\EvoProject1\EvoProject1.cpp(51,1): warning C4715: 'getBandwidthDemand': not all control paths return a value
+  EvoProject1.vcxproj -> C:\Users\ahfei\OneDrive\Documents\UTeM Degree Sem 1(Year 2 Sem 2)\Evolutionary Computing\EvoProject1\x64\Debug\EvoProject1.exe
